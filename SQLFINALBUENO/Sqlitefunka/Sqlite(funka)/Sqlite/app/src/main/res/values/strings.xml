@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Practicando Mobile</string>
+    <string name="fecha_y_hora">Fecha y Hora:</string>
+    <string name="fecha_y_hora2">Fecha y hora</string>
+    <string name="nombre_y_rut">Nombre y Rut:</string>
+    <string name="ingresa_aqui_tu_nombre">Ingresa Aqui tu Nombre</string>
+    <string name="ingresa_aqui_tu_rut">Ingresa Aqui tu RUT</string>
+    <string name="ingrese_el_incidente">Ingrese el Incidente :</string>
+    <string name="escribe_aca_el_incidente">Escribe aca el incidente</string>
+    <string name="salir_sin_grabar">Salir sin grabar</string>
+
+    <string-array name="laboratories">
+        <item>C2</item>
+        <item>LINF</item>
+        <item>LEICA</item>
+        <item>LNET</item>
+        <item>LTEL</item>
+    </string-array>
+</resources>
